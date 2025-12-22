@@ -1,1 +1,7 @@
-# sp6-2_smart-table_starter
+# smart-table
+
+Практическое задание №6 (Yandex Practicum).
+
+## Репозиторий
+
+https://github.com/Jeff-tlt/smart-table
