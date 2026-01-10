@@ -1,6 +1,6 @@
 # smart-table
 
-Практическое задание №6 (Yandex Practicum).
+Практическое задание №7 (Yandex Practicum).
 
 ## Репозиторий
 
